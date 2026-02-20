@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "IDT 101 Journal"
+author: "Patrick"
+description: "This is a text"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
